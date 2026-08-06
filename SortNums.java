@@ -2,8 +2,7 @@
  * This program reads numbers from a file ("numbers.csv") and stores them in an ArrayList.
  * It then sorts the numbers using recursive Selection Sort and outputs the sorted list to "sorted_num.csv".
  * It also counts how many times each number appears and outputs that to "num_frequency.csv".
- * @authors: Dapinderdeep Kaur (kaur455@pnw.edu), Frankie Gonzalez (gonz1010@pnw.edu),
- *  Oluwaferanmi Morohunfola (omorohun@pnw.edu)
+ * @authors: Dapinderdeep Kaur, Frankie Gonzalez, Oluwaferanmi Morohunfola
  * @version 1.0
  */
  
