@@ -1,0 +1,5 @@
+*.class
+bin/
+.vscode/
+sorted_num.csv
+num_frequency.csv
